@@ -1,0 +1,43 @@
+_repo: Mr.-Munchausen-Being-a-True-Account-of-Some-of-the-Recent-Adventures-beyond-the-Styx-of-the-L__33432
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Newell, Peter
+    alias: Newell, P. S. (Peter S.)
+    birthdate: &id001 1862
+    deathdate: 1924
+    gutenberg_agent_id: '7143'
+    url: http://www.gutenberg.org/2009/agents/7143
+covers:
+- cover_type: archival
+  image_path: 33432-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: *id001
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2010-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Travelers -- Fiction'
+- !lcsh 'Fantasy fiction, American'
+- !lcsh 'Adventure stories, American'
+- !lcsh 'Humorous stories, American'
+- !lcc 'PS'
+- !lcsh 'Truthfulness and falsehood -- Fiction'
+title: 'Mr. Munchausen 
+
+  Being a True Account of Some of the Recent Adventures beyond the Styx of the Late
+  Hieronymus Carl Friedrich, Sometime Baron Munchausen of Bodenwerder'
+url: http://www.gutenberg.org/ebooks/33432
